@@ -1,0 +1,13 @@
+# DataIntegration_Architecture_and_Systems
+
+
+cd /Users/ludwigvoss/PyCharmMiscProject
+git config --global user.name "Ludwig Voss"
+git config --global user.email "ludwigvoss@example.com"
+git add .
+- export GITHUB_TOKEN=ghp_12345git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/MidgardSnake/DataIntegration_Architecture_and_Systems.git
+git push -u origin main
+
+
